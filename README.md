@@ -1,2 +1,5 @@
-# Assam-Watershed-Delineation-
-Assam Watershed Delineation for flood affected areas using GIS
+flood-vulnerability-sonitpur/
+│
+├── report/
+│   └── Assam Watershed Report.pdf          # Full project report with maps and analysis
+├── Readme.md
